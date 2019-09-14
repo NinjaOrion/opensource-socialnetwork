@@ -8,6 +8,7 @@
  * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
+http_response_code(404);
 ?>
 <div class="row">
 	<div class="col-md-11 ossn-page-contents">
